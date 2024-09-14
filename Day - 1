@@ -1,0 +1,21 @@
+Welcome to my Salesforce learning repository! 
+This is where I track my progress and document what I've learned about Salesforce development.
+
+What I've Learned Today
+Apex Programming
+1. Primitive Data Types
+Boolean: Represents true or false values.
+Integer: Represents whole numbers.
+Double: Represents floating-point numbers.
+Long: Represents larger whole numbers.
+Date: Represents calendar dates.
+DateTime: Represents date and time.
+String: Represents a sequence of characters.
+2. Non-Primitive Data Types
+List: An ordered collection of elements, similar to arrays in other languages.
+Set: An unordered collection of unique elements.
+Map: A collection of key-value pairs where each key is unique.
+3. sObjects
+Salesforce objects that represent records in the database, such as Account, Contact, etc. sObjects can be manipulated using Apex to interact with Salesforce data.
+
+Created my first program and called trigger out of it 
