@@ -1,0 +1,11 @@
+In today's  journed of learning salesforce 
+1.I got my self familiar with how cloud works  and what Saas, Paas and infrastructure as a service are what salesforce uses, Multi-tenant environment
+2.Understood what relationship(Data modeling) are 
+   * Look-up Relationship   - Example  Book and author
+   * Master- detail relationship(parent-child) - ex: Customer(parent) - Order(Child).
+   * one to one -  ex: Person and passport.
+   * one to many -  ex: Department and employee.
+   * self relationship. 
+   * Hierarcy realtionship.
+  => You can have a maximum of 2 master-detail relationship and 38 look up relationship in total.
+  Junction Object 
